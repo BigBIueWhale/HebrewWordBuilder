@@ -1,5 +1,6 @@
 # HebrewWordbuilder
 Generate Hebrew words from unordered Hebrew letters.
+You can also generate sentences that are just collections of words with no meaning.
 # Written by Ronen Zyroff
 The words.txt file is not Ronen Zyroff's intelectual property and any license doesn't apply to that specific file.
 You must put the words.txt file in the same directory as the .exe file.
